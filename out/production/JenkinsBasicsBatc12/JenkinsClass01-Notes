@@ -1,0 +1,19 @@
+Jenkins------01----------------
+
+1.Continuous Development and continuous integration tools help us to omit the delays in
+the pipeline to deliver the project efficiently!
+
+Jenkins:
+Jenkins is an automation server that helps you with building, deployment,test and
+ providing you with continuous  integration and development.
+
+ Why don't we host on our personal laptops and computers?
+1.The resources needed are limited
+2.Internet capacity
+3.security
+
+-"echo" is a Jenkins terminology, it refers to "System out println",when we want to print somethink to console
+ex:
+echo "hello cat"
+
+ - we build our codes on shel
