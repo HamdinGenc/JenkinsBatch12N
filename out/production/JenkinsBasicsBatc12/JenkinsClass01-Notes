@@ -17,3 +17,81 @@ ex:
 echo "hello cat"
 
  - we build our codes on shel
+-   Since I was not able to connect to the Syntax(My school name) Technologies, Jenkins tool,
+I was not able to maintain the  plugin to my project that i created on GitHub than to facilitate the
+Jenkins Pipeline to my project, l decided to write it down so in the feature that i can come back
+and follow the same steps and maintain the Jenkins -CI(Continuous Integrations)
+and CD(Continuous Deployment) to my project.(04/28/2023(Friday-4:06pm)
+
+Steps I did:
+-Create the project on Intellij
+-Created the class
+-Typed the code
+-Then track our code location on PC -->Through open on explorer
+-I found the location of my project
+-Then i opened the Gib Bash there
+-Then i pushed the code to my remote repository
+-Then i went to the Jenkins file that i was not able to access
+-Then we click on configure
+-We need to see Source Code Management
+-Click on Git
+-Then place the repository link -https://github.com/HamdinGenc/JenkinsBatch12
+ -Then paste to the given blank space.
+
+
+
+----------------------------------------------------------------------------------
+NOTES I TOOK FROM THE VIDEO OF ASEL.(5/2/2023(Tuesday)(ABOUT RESUME)
+-Which platform are you going to apply jobs(Websites to apply the jobs,linkedin,indeed,glassdoor etc.)
+-If recruiter call and ask about the, what they cn offer,make negotiation later.
+-Ask Client ID, when vendor ask RTR-Right of representation-.
+-Vendors are the intermediates who are act behalf of the actual clients, and find the candidates for their open position.
+-Not to much negotiation at the beginning about the salary.
+-Always check with the recruiters, ask about the process, if you haven not hear from the recruiter.
+-Call the recruiters, if you see phone number.
+-If you see e-mai on the job application post write the email.
+-ON MY RESUME I CAN HAVE WRITE THAT I HAVE WORKED IN ANY COMPANY, IT IS UP TO ME.
+-I AM GOING TO WRITE 6 YEARS OF EXPERIENCE
+-
+--------------------------------------------
+RESUME PREPARATION PART
+-I WILL ALWAYS MENTION THAT I STARTED AS MANUEL TESTER
+-AND I WILL TELL THAT MY COMPANY DECIDED  US TO LEARN AUTOMATION TOOLS.
+-Diverse the domain you have worked(Finance,Insurance,Health etc for the resume.)
+-I will chose 3 companies,Because I  will mention
+-My first work is going to be manuel tester,
+-And My all key words are going to be related to manuel tester.
+-in second job i will mention about the automation tools(selenium,TestNG, etc,)
+-The third company is going to be related to cucumber - the key words that i am going to use.
+-In the status i should decide my status(GREENCARD HOLDER,HAVE WORK AUTHORIZATION ETC) WE mention this in legal status section.
+-When they ask about document we are providing them our documents when they ask.
+-Cover important data, and they might ask for social security, give them for last numbers.
+-documents are extended,and it is renewed all the time.
+-for the employees who work in DMV(WASHINGTON DV, VIRGINIA,DELAWARE)(THESE STATES AND IT IS RELATED TO GOVENMENT JOBS)
+-When ever i get job offer i will go through background check.
+-I will notify the SUMAIR, OR PLACEMENT TEAM.
+-When ever I get background i will contact the SUMAIR AND PLACEMENT TEAM(SANYA IS THE PERSON WHO I NEED TO CONTACT.)
+-We will provide the name of the client name(example:PROGREESSIVE,
+-YOU HAVE TAKEN THE PHOTO OF THE RESUME TEMPLATES.
+-Make your resume unique, to yourself.
+-API IS VERY IMPORTANT, SPECIALLY EMPHASIZE
+-MENTION BULLET POINT IN RESUME.
+-In every section of the resume mention 10-12 bullet points very imortant..
+- the application i am  working at the moment.When the recruiter asks TELL ME ABOUT YOUR PROJECT.
+-THE INTERVIEWER ASKS ABOUT THE APPLICATION AND HOW IT FUNCTIONS ETC., WHO USES THE APPLICATION,describe the functionality
+your project.
+-Never mention it is website, just say it is web based application
+-You will describe the  function of your web based application..
+-BE ABLE TO TELL WHAT APPLICATION DO, THE COMPANY YOU CLAIM YOU HAVE BEEN WORKING IN.
+-FOR THE CURRENT COMPANY BE GOOD AT EXPLAINING WHAT YOU ARE DOING WITH YOUR DOMAIN, AND THE MAIN PURPOSE OF YOUR WEB BASE APPLICATION.
+-Create the resume and the project description, and send to the placement team.
+-If anyone asks the reference, and if they insist,I will ask the placement team etc.Non-technical questions are going to the
+placement team.
+-When the placement team call update them about the procedure and let them know how you have been doing.
+-Always make good relationship with the company, because they will be your references.
+-When i get the offer i should communicate to the placement team.
+-Access to the project samples.
+-
+
+
+
